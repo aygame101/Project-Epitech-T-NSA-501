@@ -6,7 +6,7 @@ Date de début : Lundi 2 décembre 2024
 Date de fin : Dimanche 15 décembre 2024 à 23h42  
 
 ### Objectif du projet : 
-Réaliser un réseau d'entreprise avec : 
+Réaliser un réseau d'entreprise via 4 VMs avec : 
   - un routeur,
   - un serveur,
   - un client employé,
